@@ -43,7 +43,7 @@ Proyecto educativo desarrollado para el SENA - Servicio Nacional de Aprendizaje
 
 ## 👥 Autores
 
-- Desarrollo: AgroSoft Team
+- Desarrollo: Aprendices SENA
 - Institución: SENA
 - Año: 2026
 
